@@ -804,8 +804,12 @@ progress {
 }
 
 /* 2열 레이아웃 내부 제목 */
-.team-regist-row .funding-regist-form-tab-title-icon-wrap {
-    width: 100% !important;
+.team-regist-row .team-scale {
+    width: 48% !important;
+}
+
+.team-regist-row .team-level {
+    width: 40% !important;
 }
 
 /* 2열 레이아웃 내부 입력 필드 */
@@ -940,24 +944,28 @@ progress {
    ======================================== */
 
 /* 제목 너비 변형 */
-.title-wrap-width-25 {
-    width: 25%;
+.title-wrap-width-20 {
+    width: 20%;
 }
 
-.title-wrap-width-22 {
-    width: 22%;
+.title-wrap-width-13 {
+    width: 13%;
+}
+
+.title-wrap-width-27 {
+    width: 27%;
+}
+
+.title-wrap-width-23 {
+    width: 23%;
 }
 
 .title-wrap-width-30 {
     width: 30%;
 }
 
-.title-wrap-width-35 {
-    width: 35%;
-}
-
-.title-wrap-width-42 {
-    width: 42%;
+.title-wrap-width-28 {
+    width: 28%;
 }
 
 /* 필수 항목 별표 위치 */
